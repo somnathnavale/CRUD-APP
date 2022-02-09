@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "rohit sharma",
+      "username": "hitman",
+      "email": "rohitsharma@gmail.com",
+      "phone": "9585759574",
+      "id": 1
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "King Kohli",
+      "email": "viratkohli@gmail.com",
+      "phone": "9858759578",
+      "id": 2
+    },
+    {
+      "name": "MS Dhoni",
+      "username": "msd",
+      "email": "msd@gmail.com",
+      "phone": "8975624152",
+      "id": 3
+    }
+  ]
+}
